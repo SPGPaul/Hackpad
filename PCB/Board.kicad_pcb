@@ -3414,9 +3414,9 @@
 		(uuid "b84052fb-521f-4be4-8eb5-a2a3527cfce3")
 	)
 	(gr_text "XIAO HERE"
-		(at 152.35 63.55 0)
-		(layer "F.Cu")
-		(uuid "3d644c14-9ca7-4f12-84e9-3c36dd017719")
+		(at 152.36 65.3 0)
+		(layer "F.SilkS")
+		(uuid "0583ee11-0aff-444d-811c-9ce6c02b047b")
 		(effects
 			(font
 				(size 1.5 1.5)
